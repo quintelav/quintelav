@@ -10,7 +10,7 @@ Sou formado em Agronomia, mestre e atualmente doutorando em Entomologia, e estou
 
 ## 🚀 O que estou aprendendo agora:
 
-**Linguagens e Ferramentas:** Iniciando e consolidando meus estudos em R,Python, SQL e Excel para análise de dados.
+**Linguagens e Ferramentas:** Iniciando e consolidando meus estudos em R, Python, SQL e Excel para análise de dados.
 
 **Foco Técnico:** No momento, estou focado em dominar a base de análise de dados, estatística aplicada e manipulação de dados.
 
@@ -20,7 +20,7 @@ Sou formado em Agronomia, mestre e atualmente doutorando em Entomologia, e estou
 
 ## 🧠 Além dos dados:
 
-**Interesses:** Tenho interesse em ciência aplicada, biologia de insetos, academia, leitura e atividade física — áreas que reforçam disciplina e pensamento analítico.
+**Interesses:** Tenho interesse em ciência aplicada, biologia de insetos, leitura, filosofia & atividade física — áreas que reforçam disciplina e pensamento analítico.
 
 **Mindset:** Vejo a análise de dados como uma ferramenta estratégica para tomada de decisão, sempre orientada por lógica, evidência e aplicabilidade.
 
