@@ -10,7 +10,7 @@ Sou formado em Agronomia, mestre e atualmente doutorando em Entomologia, e estou
 
 ## 🚀 O que estou aprendendo agora:
 
-**Linguagens e Ferramentas:** Iniciando e consolidando meus estudos em Python, SQL e Excel para análise de dados.
+**Linguagens e Ferramentas:** Iniciando e consolidando meus estudos em R,Python, SQL e Excel para análise de dados.
 
 **Foco Técnico:** No momento, estou focado em dominar a base de análise de dados, estatística aplicada e manipulação de dados.
 
