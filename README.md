@@ -1,36 +1,34 @@
 
+# Hi there! I'm Vitor Quintela 👋
 
-# Olá! Eu sou Vitor Quintela 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorquintelas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quintelav@gmail.com)
 
-## Sobre Mim
+## 📌 About Me
 
-Sou formado em Agronomia, mestre e atualmente doutorando em Entomologia, e estou expandindo minha atuação para a área de programação, com foco em análise de dados. Meu objetivo é transformar dados em informação útil, conectando ciência e tecnologia para resolver problemas reais.
-
----
-
-## 🚀 O que estou aprendendo agora:
-
-**Linguagens e Ferramentas:** Iniciando e consolidando meus estudos em R, Python, SQL e Excel para análise de dados.
-
-**Foco Técnico:** No momento, estou focado em dominar a base de análise de dados, estatística aplicada e manipulação de dados.
-
-**Metas de Curto Prazo:** Desenvolver projetos práticos de análise de dados, estruturar pipelines simples e aplicar esses conhecimentos em problemas da entomologia.
+I am an Agronomist holding an M.Sc. and currently pursuing a **Ph.D. in Entomology**. Alongside my research, I am expanding into **Data Analysis** and **Bioinformatics**, bridging life sciences and technology to solve real-world problems through data-driven insights.
 
 ---
 
-## 🧠 Além dos dados:
+## 🚀 Technical Focus & Skills
 
-**Interesses:** Tenho interesse em ciência aplicada, biologia de insetos, leitura, filosofia & atividade física — áreas que reforçam disciplina e pensamento analítico.
-
-**Mindset:** Vejo a análise de dados como uma ferramenta estratégica para tomada de decisão, sempre orientada por lógica, evidência e aplicabilidade.
+- **Languages & Tools:** Python, R, SQL, Nextflow, Git/GitHub, Excel
+- **Core Competencies:** Data Analysis, Applied Statistics, Data Wrangling & Visualization, Bioinformatics Pipelines (RNA-Seq)
+- **Current Goals:** Building end-to-end data pipelines, expanding my open-source project portfolio, and applying computational methods to entomological and biological datasets.
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 🧠 Beyond the Code
 
-**LinkedIn:** linkedin.com/in/ [Vitor Quintela | LinkedIn](https://www.linkedin.com/in/vitorquintelas/)  
+- **Interests:** Applied science, insect biology, reading, philosophy, and fitness — disciplines that reinforce continuous learning, analytical thinking, and focus.
+- **Philosophy:** I view data analysis as a strategic decision-making framework, grounded in evidence, logic, and practical applicability.
 
-**E-mail:** [quintelav@gmail.com](mailto:quintelav@gmail.com)
+---
 
-*"Dados são apenas números até que você os transforme em decisão."*
+## 🤝 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/vitorquintelas](https://www.linkedin.com/in/vitorquintelas/)
+- **Email:** [quintelav@gmail.com](mailto:quintelav@gmail.com)
+
+> *"Data is just numbers until you turn it into a decision."*
 
